@@ -1,0 +1,22 @@
+{
+    "size": {
+        "width": 1920,
+        "height": 1080
+    },
+    "fps": 30,
+    "fov": 130,
+    "distance": 5,
+    "brightness": 0.5,
+    "rotation": {
+        "horizontal": {
+            "angle_start": 0,
+            "angle_end": 90,
+            "angle_step": 90
+        },
+        "vertical": {
+            "angle_start": 0,
+            "angle_end": 0,
+            "angle_step": 90
+        }
+    }
+}
